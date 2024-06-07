@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IconAssetSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4a73914061072ed438598c6f150db117, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2a64c6402b8cb6740a938346c5cc9d8b, type: 3}
+  - {fileID: 21300000, guid: 20ad0a312b8096f4ea3c8a42858a4fe1, type: 3}
+  - {fileID: 21300000, guid: 09f47d81d1f7a70468d1c5c8e8602a78, type: 3}
+  - {fileID: 21300000, guid: 9be6e5c1949e9974ebe1422c1b9d6636, type: 3}
+  - {fileID: 21300000, guid: 1c890753523312e4e8c00cc84622d3c0, type: 3}
+  - {fileID: 21300000, guid: da986a542136c3844888063443c3912a, type: 3}
+  - {fileID: 21300000, guid: c88d52646182e554da775ff2d83783fb, type: 3}
+  - {fileID: 21300000, guid: 57d1fe744fe61d34b90c2f6f167fa081, type: 3}
+  - {fileID: 21300000, guid: d656fcc49d88d3348a4051c5468be890, type: 3}
+  - {fileID: 21300000, guid: b97b11858ce02c240a49f0e2beb04f86, type: 3}
+  - {fileID: 21300000, guid: 0336be858a103fe4cbc497ff18f9694b, type: 3}
+  - {fileID: 21300000, guid: a09965265c5b2f64faeefd57c65543b1, type: 3}
+  - {fileID: 21300000, guid: e9e263d60d7c0df44ab68802f958651b, type: 3}
+  - {fileID: 21300000, guid: 97359ee67192b7e4caf7727ad9271584, type: 3}
+  - {fileID: 21300000, guid: 49cbcf07c8f300448ae3327815c47121, type: 3}
+  - {fileID: 21300000, guid: 64106d3712414d14a833ec3d4be71e6a, type: 3}
+  - {fileID: 21300000, guid: de9d59f73dbadae4bae69ac0bd70bd2c, type: 3}
+  - {fileID: 21300000, guid: 804b4f18fbf8d79439111d22df78b899, type: 3}
+  - {fileID: 21300000, guid: 6c7041289059ad74e82a550a390938b8, type: 3}
+  - {fileID: 21300000, guid: 4fe79438fe4d28e4dba8fed4d737acdf, type: 3}
+  - {fileID: 21300000, guid: ecf3cbc856e8e7045850a64ac1f103f2, type: 3}
+  - {fileID: 21300000, guid: 3799ef79b10f4fb47a2acccc4ef129a8, type: 3}
+  - {fileID: 21300000, guid: 3beac9a971dc2a644953f540b0299cfc, type: 3}
+  - {fileID: 21300000, guid: 7bdc05b94882d514e8633f47b8c29732, type: 3}
+  - {fileID: 21300000, guid: fd637a1a7effbe4449d825fc2aa1aa62, type: 3}
+  - {fileID: 21300000, guid: d5cd589affcf2524ebf7e942a9b95b6d, type: 3}
+  - {fileID: 21300000, guid: e4c00e2b522fcd64a8cf77216e5bdab3, type: 3}
+  - {fileID: 21300000, guid: d8c0e1cb543f51947948c47396d077ff, type: 3}
+  - {fileID: 21300000, guid: d16d0fcb451baee4ba49d645e97993c8, type: 3}
+  - {fileID: 21300000, guid: 7098072c7762d7d459f33d5f2725337c, type: 3}
+  - {fileID: 21300000, guid: 3539c45c35b30e148919d464fbdbe270, type: 3}
+  - {fileID: 21300000, guid: efcf5e5cd58f45448b63af20fd98e79d, type: 3}
+  - {fileID: 21300000, guid: 46e7a5ac82194264da3e55180f4f9e25, type: 3}
+  - {fileID: 21300000, guid: bea86ebde64ae92478627f6a69152dca, type: 3}
+  - {fileID: 21300000, guid: 0a78d81e68e34984ba55654959596a6a, type: 3}
+  - {fileID: 21300000, guid: 47d2203efeaad8745bbd680ff5bfd3a7, type: 3}
+  - {fileID: 21300000, guid: 21df428edda2e76429922b5741e98f50, type: 3}
+  - {fileID: 21300000, guid: 4fcba80fbeb620749955f60918454df9, type: 3}
+  - {fileID: 21300000, guid: 2b53ec9f89b21db429cfe311e8240108, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - rect_bg_5
+  - circle_bg_2
+  - rect_bg_1
+  - equip_clothes_tag
+  - circle_bg_4
+  - star
+  - circle_frame_1
+  - circle_bg_1
+  - equip_weapon_tag
+  - rps_paper
+  - circle_bg_3
+  - circle_bg_5
+  - rect_bg_3
+  - rect_frame_3
+  - equip_shoes_tag
+  - mask_circle
+  - rect_frame_4
+  - rect_bg_0
+  - rps_rock
+  - circle_frame_4
+  - circle_frame_2
+  - rect_frame_5
+  - circle_frame_6
+  - rect_frame_0
+  - circle_frame_3
+  - rect_bg_4
+  - equip_shield_tag
+  - question_mark
+  - rect_frame_6
+  - rect_frame_2
+  - rect_bg_6
+  - default_hero_icon
+  - rps_scissors
+  - circle_frame_5
+  - circle_bg_6
+  - rect_bg_2
+  - rect_frame_1
+  - circle_bg_0
+  - circle_frame_0
+  m_Tag: IconAssetSprites
+  m_IsVariant: 0

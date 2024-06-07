@@ -1,0 +1,12 @@
+/Library
+/.vs
+/.vsconfig
+/Logs
+/obj
+/Temp
+/*.csproj
+/Assets/GreatArtText
+/Assets/GreatArtText.meta
+/Assets/Resources
+/*.sln
+/Packages
