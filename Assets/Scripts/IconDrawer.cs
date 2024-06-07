@@ -1,4 +1,4 @@
-﻿#define UNABLE_RENDER_TEXT
+﻿// #define UNABLE_RENDER_TEXT
 
 using GreatClock.Common.IconAtlas;
 #if UNABLE_RENDER_TEXT
